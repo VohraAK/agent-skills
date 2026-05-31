@@ -6,7 +6,7 @@ Some skills I use.
 
 | Skill | Description |
 |-------|-------------|
-| [cv-review](./cv-review) | CS industrial CV evaluator for SWE, ML/AI, Data Science, Systems, Security, DevOps, and NLP roles |
+| [cv-review](./cv-review) | CS industrial CV evaluator for SWE, ML/AI, Data Science, Systems, Security, DevOps, and NLP |
 
 ## Install
 
